@@ -30,18 +30,3 @@ As principais técnicas e tecnologias utilizadas neste projeto são:
     - **`align-self`**: Permite modificar o alinhamento de um item específico, substituindo o valor definido em `align-items` para aquele item.
 
 Esses atributos são essenciais para criar um layout flexível, garantindo que a página seja responsiva e adaptável a diferentes tamanhos de tela e dispositivos.
-
-## 📁 Acesso ao Projeto
-
-Você pode [acessar o código-fonte do projeto inicial](https://github.com/monicahillman/3992-css-grid/tree/projeto-base) ou [baixá-lo](https://github.com/monicahillman/3992-css-grid/archive/refs/heads/projeto-base.zip).
-
-## 🛠️ Como Abrir e Rodar o Projeto
-
-Após baixar o projeto, você pode abri-lo no Visual Studio Code. Para isso, siga os passos abaixo:
-
-1. No menu superior do VS Code, clique em:
-   * **File > Open Folder** (ou uma opção similar).
-2. Procure o local onde o projeto foi salvo e selecione a pasta (se o projeto foi baixado como um arquivo ZIP, será necessário extraí-lo antes).
-3. Clique em **OK**.
-
-Após finalizar esses passos, você pode executar a aplicação usando a extensão **Live Server** 🏆. Isso facilitará a visualização do projeto em seu navegador e garantirá que as alterações sejam refletidas automaticamente.
